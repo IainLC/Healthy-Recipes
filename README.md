@@ -10,7 +10,8 @@ App link: local only
 + Change basic styling using vanilla CSS
 
 #Technology Summary / stack
-+JavaScript
++ CSS
++ HTML
 
 #Functionality
 Limited functionality, just a reference page
